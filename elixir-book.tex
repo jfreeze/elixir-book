@@ -1,0 +1,36 @@
+\documentclass[14pt]{extbook} % Edit this line to change the documentclass.
+% Add custom preamble content below.
+% Example commands for using the Polyglossia package with French are
+% included for reference.
+% You may also have to edit config/lang.yml to sync up the HTML/EPUB/MOBI.
+% \usepackage{polyglossia}
+% \setdefaultlanguage{french}
+% \DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ }
+
+\usepackage{latex_styles/softcover}
+\VerbatimFootnotes % Allows verbatim text in footnotes
+\title{Elixir}
+\subtitle{Getting Started}
+\author{64 contributors}
+\date{}
+
+\begin{document}
+
+\includepdf{images/cover.pdf}
+\frontmatter
+\maketitle
+\tableofcontents
+\include{generated_polytex/preface}
+\mainmatter
+\include{generated_polytex/1}
+\include{generated_polytex/2}
+\include{generated_polytex/3}
+\include{generated_polytex/4}
+\include{generated_polytex/5}
+\include{generated_polytex/6}
+\include{generated_polytex/7}
+\include{generated_polytex/ex_unit_1}
+\include{generated_polytex/mix_1}
+\include{generated_polytex/mix_2}
+\include{generated_polytex/mix_3}
+\end{document}
