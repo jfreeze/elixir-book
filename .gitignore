@@ -23,7 +23,7 @@ html/*.html
 epub/
 
 # Generated ebooks
-ebooks/
+# ebooks/
 
 # Screencasts (likely to be huge)
 screencasts/
