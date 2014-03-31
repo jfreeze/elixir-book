@@ -14,7 +14,7 @@ The best way to use this project is to *not* use it. It requires softcover, whic
 
 * elixir-book.epub
 * elixir-book.mobi
-* [https://github.com/jfreeze/elixir-book/blob/master/ebooks/elixir-book.pdf](elixir-book.pdf)
+* [elixir-book.pdf](https://github.com/jfreeze/elixir-book/blob/master/ebooks/elixir-book.pdf)
 
 
 If you want to support this project and build the books yourself, simply do:
