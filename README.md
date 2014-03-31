@@ -3,7 +3,7 @@
 This 'project' pulls the Elixir book down from github and formats it for softcover.
 It also includes the Ex\_unit and the Mix documentation at the end.
 
-The best way to use this project is to _not_ use it, but just download the ebooks. Links are provided below for the published books in the ebooks/ directory.
+The best way to use this project is to __not__ use it, but just __download the ebooks__. Links are provided below for the published books in the ebooks/ directory.
 
 * [elixir-book.pdf](https://github.com/jfreeze/elixir-book/raw/master/ebooks/elixir-book.pdf)
 * [elixir-book.epub](https://github.com/jfreeze/elixir-book/raw/master/ebooks/elixir-book.epub)
