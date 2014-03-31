@@ -12,10 +12,9 @@ There are some bugs in the https://github.com/elixir-lang/elixir-lang.github.com
 
 The best way to use this project is to *not* use it. It requires softcover, which requires lots of supporting installs. The best thing is to just download the book format you need from the ebooks folder:
 
-* elixir-book.epub
-* elixir-book.mobi
-* [elixir-book.pdf](https://github.com/jfreeze/elixir-book/blob/master/ebooks/elixir-book.pdf)
-
+* [elixir-book.pdf](https://github.com/jfreeze/elixir-book/raw/master/ebooks/elixir-book.pdf)
+* [elixir-book.epub](https://github.com/jfreeze/elixir-book/raw/master/ebooks/elixir-book.epub)
+* [elixir-book.mobi](https://github.com/jfreeze/elixir-book/raw/master/ebooks/elixir-book.mobi)
 
 If you want to support this project and build the books yourself, simply do:
 
